@@ -9,6 +9,7 @@ public class TiendasGUI {
         pantallaCliente.setVisible(true);
         pantallaCliente.setLocationRelativeTo(null);
         JOptionPane.showMessageDialog(pantallaCliente, "jeje");
+        JOptionPane.showMessageDialog(pantallaCliente, "jeje2");
         
     }
     
